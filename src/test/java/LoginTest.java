@@ -1,5 +1,3 @@
-package org.example;
-
 import Base.BaseLibrary;
 import Base.BaseTest;
 import Pages.LoginPage;
